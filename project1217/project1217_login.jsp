@@ -36,14 +36,14 @@
 				%>
 				<script>
 					alert('로그인 성공.');
-					location.href = './project1217_login_form.jsp';
+					location.href = './login_form.jsp';
 				</script>
 				<%
 			} else {
 				%>
 				<script>
 					alert('로그인 실패.');
-					location.href = './project1217_login_form.jsp';
+					location.href = './login_form.jsp';
 				</script>
 				<%
 			}
